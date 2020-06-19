@@ -7,7 +7,7 @@ const Products = () => {
 
   return ( 
     <Container>
-       <h1 style={{paddingTop: '10%', paddingBottom: '5%', borderBottom: '5px sloid black'}}>
+       <h1 style={{paddingTop: '10%', paddingBottom: '5%', borderBottom: '5px sloid black', textAlign:'center'}}>
         New Arrivals
       </h1>
         <Row>
